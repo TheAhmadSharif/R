@@ -1,0 +1,61 @@
+There are three kinds of data type
+
+Scalers
+Vectors
+matrix
+
+Scalers are -0 dimensioanl
+Vectors are -1 dimensioanl
+matrix are -2 dimensioanl
+
+#mean
+a <- 10, 12
+
+mean(x = a)
+// 11
+
+
+R in interpreted language
+
+
+hist(rnorm(100))
+
+setwd('/home/ahmad/Desktop/R')
+
+library()
+mean(50,60)
+
+apple <- c ('green', 'red')
+print(apple)
+
+a  = 4
+rnorm(5)
+
+x = rnorm(100)
+plot(x)
+help(rnorm)
+
+
+Generating Data
+
+x < 1:30
+
+sum(x)
+
+——————————————————————————————————
+Loop
+——————————————————————————————————
+for(i in 1:10) {
+	print(i)
+}
+
+
+summary(y)
+
+
+
+sample(1:10, 4)
+
+sample(letters, 5)
+
+sample(1:10)
